@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\felyl\\git\\mp2-lab3-stack\\build\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF0AFB7-4F37-3BBD-BCC7-F3C59BEB79B0}|test\\test_set.vcxproj|C:\\Users\\felyl\\git\\mp2-lab3-stack\\test\\test_RPNconverter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF0AFB7-4F37-3BBD-BCC7-F3C59BEB79B0}|test\\test_set.vcxproj|C:\\Users\\felyl\\git\\mp2-lab3-stack\\test\\test_RPNcalculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF0AFB7-4F37-3BBD-BCC7-F3C59BEB79B0}|test\\test_set.vcxproj|C:\\Users\\felyl\\git\\mp2-lab3-stack\\test\\test_lexEvaluation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF0AFB7-4F37-3BBD-BCC7-F3C59BEB79B0}|test\\test_set.vcxproj|C:\\Users\\felyl\\git\\mp2-lab3-stack\\build\\test\\test_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DAF0AFB7-4F37-3BBD-BCC7-F3C59BEB79B0}|test\\test_set.vcxproj|solutionrelative:test\\test_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\felyl\\git\\mp2-lab1-set\\test\\test_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F9190D-F514-3B91-934C-8F97753DBE45}|sample\\sample.vcxproj|C:\\Users\\felyl\\git\\mp2-lab3-stack\\sample\\sample.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F9190D-F514-3B91-934C-8F97753DBE45}|sample\\sample.vcxproj|C:\\Users\\felyl\\git\\mp2-lab3-stack\\sample\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "test_main.cpp",
+              "DocumentMoniker": "C:\\Users\\felyl\\git\\mp2-lab1-set\\test\\test_main.cpp",
+              "RelativeDocumentMoniker": "..\\..\\mp2-lab1-set\\test\\test_main.cpp",
+              "ToolTip": "C:\\Users\\felyl\\git\\mp2-lab1-set\\test\\test_main.cpp",
+              "RelativeToolTip": "..\\..\\mp2-lab1-set\\test\\test_main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-05T20:58:01.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "test_main.cpp",
+              "DocumentMoniker": "C:\\Users\\felyl\\git\\mp2-lab3-stack\\build\\test\\test_main.cpp",
+              "RelativeDocumentMoniker": "test\\test_main.cpp",
+              "ToolTip": "C:\\Users\\felyl\\git\\mp2-lab3-stack\\build\\test\\test_main.cpp",
+              "RelativeToolTip": "test\\test_main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-05T20:57:53.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test_RPNconverter.cpp",
+              "DocumentMoniker": "C:\\Users\\felyl\\git\\mp2-lab3-stack\\test\\test_RPNconverter.cpp",
+              "RelativeDocumentMoniker": "..\\test\\test_RPNconverter.cpp",
+              "ToolTip": "C:\\Users\\felyl\\git\\mp2-lab3-stack\\test\\test_RPNconverter.cpp",
+              "RelativeToolTip": "..\\test\\test_RPNconverter.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-05T20:43:31.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test_RPNcalculator.cpp",
+              "DocumentMoniker": "C:\\Users\\felyl\\git\\mp2-lab3-stack\\test\\test_RPNcalculator.cpp",
+              "RelativeDocumentMoniker": "..\\test\\test_RPNcalculator.cpp",
+              "ToolTip": "C:\\Users\\felyl\\git\\mp2-lab3-stack\\test\\test_RPNcalculator.cpp",
+              "RelativeToolTip": "..\\test\\test_RPNcalculator.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-05T20:43:30.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test_lexEvaluation.cpp",
+              "DocumentMoniker": "C:\\Users\\felyl\\git\\mp2-lab3-stack\\test\\test_lexEvaluation.cpp",
+              "RelativeDocumentMoniker": "..\\test\\test_lexEvaluation.cpp",
+              "ToolTip": "C:\\Users\\felyl\\git\\mp2-lab3-stack\\test\\test_lexEvaluation.cpp",
+              "RelativeToolTip": "..\\test\\test_lexEvaluation.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-05T20:43:28.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "sample.cpp",
+              "DocumentMoniker": "C:\\Users\\felyl\\git\\mp2-lab3-stack\\sample\\sample.cpp",
+              "RelativeDocumentMoniker": "..\\sample\\sample.cpp",
+              "ToolTip": "C:\\Users\\felyl\\git\\mp2-lab3-stack\\sample\\sample.cpp",
+              "RelativeToolTip": "..\\sample\\sample.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-05T20:43:13.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Users\\felyl\\git\\mp2-lab3-stack\\sample\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "..\\sample\\CMakeLists.txt",
+              "ToolTip": "C:\\Users\\felyl\\git\\mp2-lab3-stack\\sample\\CMakeLists.txt",
+              "RelativeToolTip": "..\\sample\\CMakeLists.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-05T20:43:07.081Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

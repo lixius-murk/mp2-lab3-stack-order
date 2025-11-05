@@ -1,0 +1,3 @@
+C:/Users/felyl/git/mp2-lab3-stack/gtest/build/CMakeFiles/gtest.dir
+C:/Users/felyl/git/mp2-lab3-stack/gtest/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/felyl/git/mp2-lab3-stack/gtest/build/CMakeFiles/ZERO_CHECK.dir
