@@ -7,23 +7,24 @@
 #include "lexEvaluation.h"
 
 
-void main() {
+int main() {
 
     while (true) {
         std::string expression = "5 + 6 / 4 - 1 ";
 
         try {
+            
 
-            Lexer lexer(expression);
-            std::queue<Token> tokens = lexer.tokenize();
+            LexEvaluation lexer(expression);
+            queue<Token> tokens = lexer.tokenize();
             printTokens(tokens);
 
             std::cout << "----" << std::endl;
-            std::queue<Token> infixCopy = copyQueue(tokens);
-            std::queue<Token> rpnTokens = infixToRPN(infixCopy);
+            queue<Token> infixCopy = copyQueue(tokens);
+            queue<Token> rpnTokens = infixToRPN(infixCopy);
             printTokens(rpnTokens);
 
-            std::queue<Token> rpnCopy = copyQueue(rpnTokens);
+            queue<Token> rpnCopy = copyQueue(rpnTokens);
             double res = evaluateRPN(rpnCopy);
             std::cout << " ----- " << std::endl;
             std::cout << res << std::endl;

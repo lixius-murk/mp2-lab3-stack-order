@@ -24,6 +24,6 @@ add_library(${MP2_LIBRARY} INTERFACE)
 target_include_directories(${MP2_LIBRARY} INTERFACE ${MP2_INCLUDE})
 
 # BUILD описание того, как собирается
-add_subdirectory(sample)
 add_subdirectory(gtest)
+add_subdirectory(sample)
 add_subdirectory(test)

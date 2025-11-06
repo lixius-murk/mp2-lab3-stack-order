@@ -3,26 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\felyl\\git\\mp2-lab3-stack\\build\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DAF0AFB7-4F37-3BBD-BCC7-F3C59BEB79B0}|test\\test_set.vcxproj|C:\\Users\\felyl\\git\\mp2-lab3-stack\\test\\test_RPNconverter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{02F9190D-F514-3B91-934C-8F97753DBE45}|sample\\sample.vcxproj|C:\\Users\\felyl\\git\\mp2-lab3-stack\\sample\\sample.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAF0AFB7-4F37-3BBD-BCC7-F3C59BEB79B0}|test\\test_set.vcxproj|C:\\Users\\felyl\\git\\mp2-lab3-stack\\test\\test_RPNcalculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{02F9190D-F514-3B91-934C-8F97753DBE45}|sample\\sample.vcxproj|C:\\USERS\\FELYL\\GIT\\MP2-LAB3-STACK\\INCLUDE\\LEXEVALUATION.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAF0AFB7-4F37-3BBD-BCC7-F3C59BEB79B0}|test\\test_set.vcxproj|C:\\Users\\felyl\\git\\mp2-lab3-stack\\test\\test_lexEvaluation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{16645548-BBF5-3D00-A94E-D3ACB3B775F2}|test\\tests.vcxproj|C:\\Users\\felyl\\git\\mp2-lab3-stack\\test\\test_lexEvaluation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAF0AFB7-4F37-3BBD-BCC7-F3C59BEB79B0}|test\\test_set.vcxproj|C:\\Users\\felyl\\git\\mp2-lab3-stack\\build\\test\\test_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DAF0AFB7-4F37-3BBD-BCC7-F3C59BEB79B0}|test\\test_set.vcxproj|solutionrelative:test\\test_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{16645548-BBF5-3D00-A94E-D3ACB3B775F2}|test\\tests.vcxproj|C:\\Users\\felyl\\git\\mp2-lab3-stack\\test\\test_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\felyl\\git\\mp2-lab1-set\\test\\test_main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02F9190D-F514-3B91-934C-8F97753DBE45}|sample\\sample.vcxproj|C:\\Users\\felyl\\git\\mp2-lab3-stack\\sample\\sample.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{16645548-BBF5-3D00-A94E-D3ACB3B775F2}|test\\tests.vcxproj|C:\\Users\\felyl\\git\\mp2-lab3-stack\\test\\test_RPNconverter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{02F9190D-F514-3B91-934C-8F97753DBE45}|sample\\sample.vcxproj|C:\\Users\\felyl\\git\\mp2-lab3-stack\\sample\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16645548-BBF5-3D00-A94E-D3ACB3B775F2}|test\\tests.vcxproj|C:\\Users\\felyl\\git\\mp2-lab3-stack\\test\\test_RPNcalculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -52,6 +54,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lexEvaluation.h",
+              "DocumentMoniker": "C:\\Users\\felyl\\git\\mp2-lab3-stack\\include\\lexEvaluation.h",
+              "RelativeDocumentMoniker": "..\\include\\lexEvaluation.h",
+              "ToolTip": "C:\\Users\\felyl\\git\\mp2-lab3-stack\\include\\lexEvaluation.h",
+              "RelativeToolTip": "..\\include\\lexEvaluation.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-06T05:01:42.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "test_main.cpp",
+              "DocumentMoniker": "C:\\Users\\felyl\\git\\mp2-lab3-stack\\test\\test_main.cpp",
+              "RelativeDocumentMoniker": "..\\test\\test_main.cpp",
+              "ToolTip": "C:\\Users\\felyl\\git\\mp2-lab3-stack\\test\\test_main.cpp",
+              "RelativeToolTip": "..\\test\\test_main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-06T04:50:04.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
               "Title": "test_main.cpp",
               "DocumentMoniker": "C:\\Users\\felyl\\git\\mp2-lab1-set\\test\\test_main.cpp",
@@ -65,33 +93,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "test_main.cpp",
-              "DocumentMoniker": "C:\\Users\\felyl\\git\\mp2-lab3-stack\\build\\test\\test_main.cpp",
-              "RelativeDocumentMoniker": "test\\test_main.cpp",
-              "ToolTip": "C:\\Users\\felyl\\git\\mp2-lab3-stack\\build\\test\\test_main.cpp",
-              "RelativeToolTip": "test\\test_main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-05T20:57:53.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "test_RPNconverter.cpp",
               "DocumentMoniker": "C:\\Users\\felyl\\git\\mp2-lab3-stack\\test\\test_RPNconverter.cpp",
               "RelativeDocumentMoniker": "..\\test\\test_RPNconverter.cpp",
               "ToolTip": "C:\\Users\\felyl\\git\\mp2-lab3-stack\\test\\test_RPNconverter.cpp",
               "RelativeToolTip": "..\\test\\test_RPNconverter.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-11-05T20:43:31.784Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "test_RPNcalculator.cpp",
               "DocumentMoniker": "C:\\Users\\felyl\\git\\mp2-lab3-stack\\test\\test_RPNcalculator.cpp",
               "RelativeDocumentMoniker": "..\\test\\test_RPNcalculator.cpp",
@@ -99,8 +114,7 @@
               "RelativeToolTip": "..\\test\\test_RPNcalculator.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-05T20:43:30.859Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T20:43:30.859Z"
             },
             {
               "$type": "Document",
@@ -117,15 +131,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "sample.cpp",
               "DocumentMoniker": "C:\\Users\\felyl\\git\\mp2-lab3-stack\\sample\\sample.cpp",
               "RelativeDocumentMoniker": "..\\sample\\sample.cpp",
               "ToolTip": "C:\\Users\\felyl\\git\\mp2-lab3-stack\\sample\\sample.cpp",
               "RelativeToolTip": "..\\sample\\sample.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-05T20:43:13.976Z"
+              "WhenOpened": "2025-11-05T20:43:13.976Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

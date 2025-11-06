@@ -1,5 +1,5 @@
 C:/Users/felyl/git/mp2-lab3-stack/build/CMakeFiles/ALL_BUILD.dir
 C:/Users/felyl/git/mp2-lab3-stack/build/CMakeFiles/ZERO_CHECK.dir
-C:/Users/felyl/git/mp2-lab3-stack/build/sample/CMakeFiles/sample.dir
 C:/Users/felyl/git/mp2-lab3-stack/build/gtest/CMakeFiles/gtest.dir
-C:/Users/felyl/git/mp2-lab3-stack/build/test/CMakeFiles/test_set.dir
+C:/Users/felyl/git/mp2-lab3-stack/build/sample/CMakeFiles/sample.dir
+C:/Users/felyl/git/mp2-lab3-stack/build/test/CMakeFiles/tests.dir

@@ -6,8 +6,18 @@ foreach(sample_filename ${samples_list})
   get_filename_component(sample ${sample_filename} NAME_WE)
 
   add_executable(${sample} ${sample_filename})
-  target_include_directories(${sample} PRIVATE ${CMAKE_CURRENT_SOURCE_DIR}/..)
-  target_link_libraries(${sample} ${MP2_LIBRARY})
+  
+  # Добавляем include директории
+  target_include_directories(${sample} 
+      PRIVATE 
+      ${CMAKE_CURRENT_SOURCE_DIR}/../include
+      ${CMAKE_CURRENT_SOURCE_DIR}/../src
+  )
+  
+  # Добавляем исходные файлы проекта
+  file(GLOB_RECURSE PROJECT_SRC_FILES "../src/*.cpp")
+  target_sources(${sample} PRIVATE ${PROJECT_SRC_FILES})
+  
   set_target_properties(${sample} PROPERTIES
     OUTPUT_NAME "${sample}"
     PROJECT_LABEL "${sample}"

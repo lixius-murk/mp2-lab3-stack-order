@@ -2,8 +2,8 @@
 	"InstallScripts" : 
 	[
 		"C:/Users/felyl/git/mp2-lab3-stack/build/cmake_install.cmake",
-		"C:/Users/felyl/git/mp2-lab3-stack/build/sample/cmake_install.cmake",
 		"C:/Users/felyl/git/mp2-lab3-stack/build/gtest/cmake_install.cmake",
+		"C:/Users/felyl/git/mp2-lab3-stack/build/sample/cmake_install.cmake",
 		"C:/Users/felyl/git/mp2-lab3-stack/build/test/cmake_install.cmake"
 	],
 	"Parallel" : false

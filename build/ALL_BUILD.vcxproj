@@ -116,9 +116,9 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <Project>{02F9190D-F514-3B91-934C-8F97753DBE45}</Project>
       <Name>sample</Name>
     </ProjectReference>
-    <ProjectReference Include="C:\Users\felyl\git\mp2-lab3-stack\build\test\test_set.vcxproj">
-      <Project>{DAF0AFB7-4F37-3BBD-BCC7-F3C59BEB79B0}</Project>
-      <Name>test_set</Name>
+    <ProjectReference Include="C:\Users\felyl\git\mp2-lab3-stack\build\test\tests.vcxproj">
+      <Project>{16645548-BBF5-3D00-A94E-D3ACB3B775F2}</Project>
+      <Name>tests</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -1,3 +1,4 @@
+cmake_minimum_required(VERSION 3.5)
 set(target "gtest")
 
 add_library(${target} STATIC gtest-all.cc)

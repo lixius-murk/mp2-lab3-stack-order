@@ -3,7 +3,6 @@
 #include "operations.h"
 #include "operands.h"
 
-namespace std;
 class LexEvaluation {
     std::string expression;
     size_t pos;
